@@ -98,7 +98,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>mainclass</mainClass>
+								<mainClass>SampleFrameworkpackage.mainclass</mainClass>
 							</manifest>
 						</archive>
 					</configuration>

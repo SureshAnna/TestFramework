@@ -18,7 +18,7 @@ import allModules.PageObjects.RegisterPageObjects;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class TestCaseClass {
+public class TestCaseClassTest {
 	
 	public static XSSFWorkbook wb;
 	public static XSSFSheet sheet;
